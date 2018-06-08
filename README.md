@@ -25,3 +25,11 @@
 wget -N --no-check-certificate https://raw.githubusercontent.com/xnmll/tools/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
+
+
+------
+
+wget ![img](file:///C:\Users\12297\AppData\Local\Temp\%W@GJ$ACOF(TYDYECOKVDYB.png)https://raw.githubusercontent.com/nanqinlang-tcp/tcp_nanqinlang/master/LKL/bash/tcp_nanqinlang-lkl-debian-1.1.1.sh bash tcp_![img](file:///C:\Users\12297\AppData\Local\Temp\%W@GJ$ACOF(TYDYECOKVDYB.png)nanqinlang-lkl-debian-1.1.1.sh
+
+wget ![img](file:///C:\Users\12297\AppData\Local\Temp\%W@GJ$ACOF(TYDYECOKVDYB.png)https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu.sh
+bash tcp_![img](file:///C:\Users\12297\AppData\Local\Temp\%W@GJ$ACOF(TYDYECOKVDYB.png)nanqinlang-rinetd-debianorubuntu.sh
